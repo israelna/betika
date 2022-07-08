@@ -1,1 +1,2 @@
 # betika
+#include<iostream>
